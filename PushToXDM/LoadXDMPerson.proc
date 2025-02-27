@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proc:process xmlns:proc="http://www.example.org/proc" id="4a83abbf-898e-420f-9768-775c31b94e10">
+  <actionProcessRef id="66811251-77d7-4d84-9ef8-666ee8cd8ae0" isBeginAction="false" name="LoadPerson" nbCycles="-1" toleratedError="false" processMap="true" targetName="resource.map#_LTjUcN2GEe-sz8-nFYhyiQ?fileId=_LTjUcN2GEe-sz8-nFYhyiQ$name=LoadPerson$type=map?"/>
+  <diagram><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:proc="http://www.example.org/proc" xsi:schemaLocation="http://www.eclipse.org/gmf/runtime/1.0.1/notation http://www.eclipse.org/gmf/runtime/1.0.3/notation#/?fileId=4a83abbf-898e-420f-9768-775c31b94e10?" xmi:id="_MnLDAN2HEe-sz8-nFYhyiQ" type="Proc" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_NUPkYN2HEe-sz8-nFYhyiQ" type="2003">
+    <children xmi:type="notation:Node" xmi:id="_NURZkN2HEe-sz8-nFYhyiQ" type="5003"/>
+    <children xmi:type="notation:Node" xmi:id="_NUSAoN2HEe-sz8-nFYhyiQ" type="7003">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_NUSAod2HEe-sz8-nFYhyiQ" collapsed="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_NUSAot2HEe-sz8-nFYhyiQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_NUSAo92HEe-sz8-nFYhyiQ"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_NUSApN2HEe-sz8-nFYhyiQ" type="7004">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_NUSApd2HEe-sz8-nFYhyiQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_NUSApt2HEe-sz8-nFYhyiQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_NUSAp92HEe-sz8-nFYhyiQ"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_NUPkYd2HEe-sz8-nFYhyiQ" fontName="Segoe UI"/>
+    <element xmi:type="proc:ActionProcessRef" href="resource.proc#66811251-77d7-4d84-9ef8-666ee8cd8ae0?fileId=4a83abbf-898e-420f-9768-775c31b94e10$type=proc$name=LoadPerson?"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NUPkYt2HEe-sz8-nFYhyiQ" x="289" y="222"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_MnLDAd2HEe-sz8-nFYhyiQ"/>
+  <element xmi:type="proc:ActionProcess" href="resource.proc#4a83abbf-898e-420f-9768-775c31b94e10?fileId=4a83abbf-898e-420f-9768-775c31b94e10$type=proc$name=LoadXDMPerson?"/>
+</notation:Diagram>
+]]></diagram>
+</proc:process>
